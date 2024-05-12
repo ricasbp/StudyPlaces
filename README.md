@@ -1,4 +1,4 @@
-# Aplication UI
+# Aplication UI Concept
 ![AW_UI](https://github.com/ricasbp/StudyPlaces/assets/59062659/942d037b-6de6-4535-927d-aecc5af1af48)
 
 

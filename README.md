@@ -1,8 +1,8 @@
-This architechure was heavily inspired by...
-And was divide into this 8 parts:
-- Back-End Handlers
+This architechure was heavily inspired by the paper, "BizDevOps Blueprint: A Lightweight Model Supporting Web Application Design by BizDevOps Teams"
 
-# Application architecture 
+And was divide into the 8 artifacts included in this git repository.
+
+# Application architecture (All Artifacts Combined)
 ![AW_BluePrint](https://github.com/ricasbp/StudyPlaces/assets/59062659/124d9c5e-7298-464c-af1c-0e140646073c)
 
 # Aplication UI concept

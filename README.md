@@ -1,3 +1,7 @@
+This architechure was heavily inspired by...
+And was divide into this 8 parts:
+- Back-End Handlers
+
 # Application architecture 
 ![AW_BluePrint](https://github.com/ricasbp/StudyPlaces/assets/59062659/124d9c5e-7298-464c-af1c-0e140646073c)
 
